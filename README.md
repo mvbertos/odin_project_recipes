@@ -1,0 +1,1 @@
+This is a study project presented by The Oding Project, where the goal is to introduce to my self the basics of HTML. At the end of this project it is expect to have a basic recipe book web page.
